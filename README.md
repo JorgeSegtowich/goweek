@@ -1,4 +1,7 @@
-# goweek
+# Goweek
 app criado na iniciativa Goweek
 
-teste de commit
+### Stack
+React -> Frontend
+Nodejs -> Backend
+React Native -> Mobile
